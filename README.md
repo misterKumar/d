@@ -2,7 +2,7 @@
 A full responsive website for mobile, tablet as well as laptop or large screens display devices.
 
 
-[https://trimbak15.github.io/Usability-Website/](https://misterkumar.github.io/d/)
+(https://misterkumar.github.io/d/)
 
 
 1) Technology used - HTML & CSS..
